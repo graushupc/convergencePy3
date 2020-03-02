@@ -1,0 +1,11 @@
+README.md
+setup.py
+convergence/__init__.py
+convergence/functions.py
+convergence/interface.py
+convergence/tables.py
+convergence.egg-info/PKG-INFO
+convergence.egg-info/SOURCES.txt
+convergence.egg-info/dependency_links.txt
+convergence.egg-info/entry_points.txt
+convergence.egg-info/top_level.txt

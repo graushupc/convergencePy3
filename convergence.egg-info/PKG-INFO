@@ -1,0 +1,17 @@
+Metadata-Version: 1.2
+Name: convergence
+Version: 0.1b0
+Summary: A Python program to Perform Calculations Associated with a Grid Convergence Study
+Home-page: https://github.com/H0R5E/convergence
+Author: Mathew Topper
+Author-email: dataonlygreater@gmail.com
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: ==3.7.*
